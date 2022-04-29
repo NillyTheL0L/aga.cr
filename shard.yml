@@ -1,0 +1,13 @@
+name: aga
+version: 0.1.0
+
+authors:
+  - BuildTools <unconfigured@null.spigotmc.org>
+
+targets:
+  aga:
+    main: src/aga.cr
+
+crystal: 1.3.2
+
+license: MIT
