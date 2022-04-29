@@ -1,7 +1,17 @@
 # aga
 
-TODO: Write a description here
+An html simplyfier made in crystal lang
 
+## Example
+Html code:
+```sh
+<h1>Hello World!</h1>
+```
+
+Aga code:
+```sh
+puts Aga.h1o + "Hi" + Aga.h1c
+```
 ## Installation
 
 TODO: Write installation instructions here
