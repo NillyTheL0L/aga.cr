@@ -52,4 +52,48 @@ def self.stc
 "</style>"
 end
 
+def self.ceo
+"<center>"
+end
+
+def self.cec
+"</center>"
+end
+
+def self.tio
+"<title>"
+end
+
+def self.tic
+"</title>"
+end
+
+def self.dio
+"<div>"
+end
+
+def self.dic
+"</div>"
+end
+
+def self.br
+"<br>"
+end
+
+def self.buo
+"<button>"
+end
+
+def self.buc
+"</button>"
+end
+
+def self.a
+"<a>"
+end
+
+def self.link
+"<link>"
+end
+
 end
